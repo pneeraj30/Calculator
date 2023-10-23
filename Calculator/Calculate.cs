@@ -46,8 +46,10 @@ namespace Delegate
 
             }
 
-
-
+            public void display()
+            {
+                Console.WriteLine("newone");
+            }
         }
 
 
